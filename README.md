@@ -25,15 +25,28 @@ The program will run using the following tools:
 ## Usage
 
 Fork the repository, access the terminal, then enter "Node App" on the terminal to run the program. Respond to the prompts to Play the Game!
-
-To test the program using JEST, type "npm run test" in the terminal.
     
 
 ## Credits
 
-UCF Full Stack Bootcamp
+UCF Full Stack Coding Bootcamp
 
 ## License
 
 MIT License
 ---
+
+
+## Tests
+
+Run test on the program using JEST. Refer to the documentation for more information https://jestjs.io/docs/getting-started.
+
+Before you run the tests, make sure that Jest is installed and added to package.json. 
+
+Enter the following command in the terminal to install:
+
+	npm install jest --save-dev
+
+Once the installation is complete, type "npm test" in the terminal to ultimate run the test.
+
+
